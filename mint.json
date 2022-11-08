@@ -52,7 +52,9 @@
     {
       "group": "🐛 Issues",
       "pages": ["issues/known-issues-and-bugs"]
-    }
+    },
+    {"group": "Tutorials",
+     "pages": ["tutorials/gage"]}
   ],
   "footerSocials": {
     "website": "https://www.getalpaca.io",
