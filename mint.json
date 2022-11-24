@@ -7,7 +7,14 @@
     "light": "#EE8133",
     "dark": "#E93593",
     "ultraLight": "#FCDCC5",
-    "ultraDark": "#480629"
+    "ultraDark": "#480629",
+    "background": {
+      "dark": "#121212"
+    },
+    "anchors": {
+      "from": "#f09",
+      "to": "#ff7a00"
+    }
   },
   "topbarCtaButton": {
     "name": "Register",
@@ -62,10 +69,6 @@
     "website": "https://www.getalpaca.io",
     "twitter": "https://twitter.com/alpacaML",
     "discord": "https://discord.gg/wEqSpGYGnS"
-  },
-  "classes": {
-    "anchors": "group-hover:bg-gradient-to-tr from-[#f09] to-[#ff7a00]",
-    "activeAnchors": "bg-gradient-to-tr"
   },
   "backgroundImage": "/images/background.png"
 }
